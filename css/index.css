@@ -10,7 +10,7 @@
 
 
 main{
-    background-image: url(/img/Index/fondoIndex.png);
+    background-image: url(../img/Index/fondoIndex.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@ main{
 /*SHOP CSS*/
 
 .mainShop{
-    background-image: url(/img/Shop/fondoShop.png);
+    background-image: url(../img/Shop/fondoShop.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ main{
 /*CONTACTO CSS*/
 
 .mainContacto{
-    background-image: url(/img/Contacto/fondoContacto.png);
+    background-image: url(../img/Contacto/fondoContacto.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -141,7 +141,7 @@ fieldset{
 /*CARRITO CSS*/
 
 .mainCarrito{
-    background-image: url(/img/Carrito/fondoCarrito.png);
+    background-image: url(../img/Carrito/fondoCarrito.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
