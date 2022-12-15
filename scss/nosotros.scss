@@ -1,0 +1,35 @@
+.mainNosotros{
+    background-image: url(../img/Nosotros/fondoNosotros.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center; 
+
+    .infoNosotros{
+        margin-left: 50%;
+        margin-right: 8%;
+        text-align: right;
+
+        .tittleNosotros{
+            font-family: 'Bebas Neue', cursive;
+            color: white;
+            font-size: 50px;
+            letter-spacing: 3px;
+            margin-top: 100px;
+            text-align: start;
+        }
+
+        .parrafoNormi{
+            font-family: 'Montserrat', sans-serif;
+            color: white;
+            font-size: 15px;
+            text-align: right;
+        }
+    }
+}

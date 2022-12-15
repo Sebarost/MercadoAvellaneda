@@ -1,0 +1,28 @@
+.mainCarrito {
+  background-image: url(../img/Carrito/fondoCarrito.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mainCarrito .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.mainCarrito .container .btn:hover::after {
+  content: "Total: $xxdxx";
+}
+.mainCarrito .container .btn:hover::before {
+  content: "P   A   G   A   R";
+}
+.mainCarrito .container .table-hover {
+  background-color: rgba(240, 248, 255, 0.689);
+  text-align: center;
+}
+
+/*# sourceMappingURL=carrito.css.map */

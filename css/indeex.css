@@ -1,0 +1,24 @@
+main {
+  background-image: url(../img/Index/fondoIndex.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+  /* filter:drop-shadow(8px 8px 8px ); */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+main .tittleIndex {
+  margin-right: 50%;
+  margin-left: 10%;
+}
+main .tittleIndex p {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(169, 166, 166);
+  font-size: 15px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=indeex.css.map */
