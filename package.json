@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "compile": "sass --watch scss/contacto.scss css/contacto.css",
+    "compile": "sass --watch scss/index.scss css/index.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

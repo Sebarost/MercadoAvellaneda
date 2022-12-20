@@ -1,3 +1,12 @@
+@import "footer";
+@import "header";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
 main{
     background-image: url(../img/Index/fondoIndex.png);
     background-position: center;
